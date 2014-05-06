@@ -1,4 +1,4 @@
-NAME:=example1
+NAME:=examples
 include ../smake/app.mk
 
 QMAKEDEFS = \

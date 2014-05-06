@@ -1,4 +1,4 @@
-NAME=example1
+NAME=examples
 include( ../smake/app.pri )
 
 ## Dependencies
@@ -9,6 +9,6 @@ addStaticLibDependency($$SBASE_PATH,sbase)
 
 ## Sources
 
-SOURCES += src/example1_main.cpp
+SOURCES += src/examples_main.cpp
 
 ## Build Options
