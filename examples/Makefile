@@ -10,3 +10,6 @@ QMAKEDEFS = \
 # requires them to be there.
 $(eval $(call add-library-dependency,$(SANI_PATH),sani))
 $(eval $(call add-library-dependency,$(SBASE_PATH),sbase))
+
+$(eval $(call add-run-target,1,1) )
+$(eval $(call add-run-target,2,2) )
