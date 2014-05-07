@@ -1,4 +1,5 @@
 syntax: glob
 examples/build
+testdriver/build
 boost
 qt
