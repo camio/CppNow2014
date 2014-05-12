@@ -13,3 +13,7 @@ $(eval $(call add-library-dependency,$(SBASE_PATH),sbase))
 
 $(eval $(call add-run-target,1,1) )
 $(eval $(call add-run-target,2,2) )
+$(eval $(call add-run-target,3,3) )
+$(eval $(call add-run-target,4,4) )
+$(eval $(call add-run-target,5,5) )
+$(eval $(call add-run-target,6,6) )
