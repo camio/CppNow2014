@@ -1,0 +1,12 @@
+[submodule "boost-make"]
+	path = boost-make
+	url = ../boost-make
+[submodule "sbase"]
+	path = sbase
+	url = ../sbase
+[submodule "sani"]
+	path = sani
+	url = ../sani
+[submodule "smake"]
+	path = smake
+	url = ../smake
